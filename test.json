@@ -1,0 +1,170 @@
+{
+    "56": [
+        {
+            "name": "BNB",
+            "selected": true,
+            "symbol": "BNB",
+            "address": "0x0000000000000000000000000000000000000000",
+            "decimals": 18,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
+        },
+        {
+            "name": "BUSD Token",
+            "selected": false,
+            "symbol": "BUSD",
+            "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/bsc/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+            "chainId": 56
+        },
+        {
+            "name": "Ethereum Token",
+            "selected": false,
+            "symbol": "ETH",
+            "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/bsc/0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png",
+            "chainId": 56
+        },
+        {
+            "name": "USD Coin",
+            "selected": false,
+            "symbol": "USDC",
+            "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/bsc/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d/logo.png",
+            "chainId": 56
+        },
+        {
+            "name": "BTC Token",
+            "selected": false,
+            "symbol": "BTC",
+            "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/bsc/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c/logo.png",
+            "chainId": 56
+        },
+        {
+            "name": "PancakeSwap Token",
+            "selected": false,
+            "symbol": "Cake",
+            "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/bsc/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
+            "chainId": 56
+        }
+    ],
+    "1": [
+        {
+            "name": "ETH",
+            "symbol": "ETH",
+            "address": "0x0000000000000000000000000000000000000000",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+            "chainId": 1,
+            "pairs": [],
+            "type": "ERC20",
+            "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+        },
+        {
+            "name": "Tether",
+            "symbol": "USDT",
+            "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "decimals": 6,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        },
+        {
+            "name": "Dai",
+            "symbol": "DAI",
+            "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+            "chainId": 1,
+            "pairs": [],
+            "type": "ERC20",
+            "asset": "c60_t0x6B175474E89094C44Da98b954EedeAC495271d0F"
+        }
+    ],
+    "137": [
+        {
+            "name": "MATIC",
+            "symbol": "MATIC",
+            "address": "0x0000000000000000000000000000000000000000",
+            "decimals": 18,
+            "logoURI": "https://polygonscan.com/token/images/wMatic_32.png",
+            "chainId": 137,
+            "pairs": [],
+            "type": "ERC20",
+            "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+        },
+        {
+            "name": "Tether",
+            "symbol": "USDT",
+            "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+            "decimals": 6,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        }
+    ],
+    "25": [
+        {
+            "name": "CRO",
+            "symbol": "CRO",
+            "address": "0x0000000000000000000000000000000000000000",
+            "decimals": 18,
+            "logoURI": "https://cronoscan.com/token/images/cryptocom_32.png",
+            "chainId": 25,
+            "pairs": [],
+            "type": "ERC20",
+            "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+        },
+        {
+            "name": "Tether",
+            "symbol": "USDT",
+            "address": "0x66e428c3f67a68878562e79A0234c1F83c208770",
+            "decimals": 6,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        },
+        {
+            "name": "Dai",
+            "symbol": "DAI",
+            "address": "0xF2001B145b43032AAF5Ee2884e456CCd805F677D",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+            "chainId": 25,
+            "pairs": [],
+            "type": "ERC20",
+            "asset": "c60_t0x6B175474E89094C44Da98b954EedeAC495271d0F"
+        }
+    ],
+    "43114": [
+        {
+            "name": "AVAX",
+            "symbol": "AVAX",
+            "address": "0x0000000000000000000000000000000000000000",
+            "decimals": 18,
+            "logoURI": "https://cryptologos.cc/logos/avalanche-avax-logo.png",
+            "chainId": 25,
+            "pairs": [],
+            "type": "ERC20",
+            "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+        },
+        {
+            "name": "Tether",
+            "symbol": "USDT",
+            "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+            "decimals": 6,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        },
+        {
+            "name": "Dai",
+            "symbol": "DAI",
+            "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+            "chainId": 25,
+            "pairs": [],
+            "type": "ERC20",
+            "asset": "c60_t0x6B175474E89094C44Da98b954EedeAC495271d0F"
+        }
+    ]
+}
